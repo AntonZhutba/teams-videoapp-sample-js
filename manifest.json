@@ -40,7 +40,7 @@
       ]
     }
   },
-  "validDomains": ["microsoft.github.io","https://github.com/v-ypalikila/"],
+  "validDomains": ["microsoft.github.io","https://github.com/v-ypalikila/video-filter-sample.git"],
   "localizationInfo": {
     "defaultLanguageTag": "en-us"
   },

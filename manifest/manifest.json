@@ -2,11 +2,11 @@
   "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.7/MicrosoftTeams.schema.json",
   "manifestVersion": "devPreview",
   "version": "1.0.0",
-  "id": "32cdab16-7c7c-40bc-94ac-c764e91d85a6",
+  "id": "32cdab16-7c7c-40bc-08ac-c764e91d85a6",
   "packageName": "com.microsoft.teams.videopp",
   "developer": {
     "name": "Microsoft",
-    "websiteUrl": "https://microsoft.github.io/teams-videoapp-sample/",
+    "websiteUrl": "https://microsoft.github.io/teams-videoapp-sample-js/",
     "privacyUrl": "https://privacy.microsoft.com/en-us/privacystatement/",
     "termsOfUseUrl": "https://www.microsoft.com/en-us/servicesagreement/"
   },
@@ -47,12 +47,12 @@
   "meetingExtensionDefinition": {
     "filters": [
       {
-        "id": "c2cf81fd-a1c0-4742-b41a-ef969b3ed490",
+        "id": "c2cf81fd-a1c0-3232-b41a-ef969b3ed490",
         "name": "half",
         "thumbnail": "half.png"
       },
       {
-        "id": "b0c8896c-7be8-4645-ae02-a8bc9b0355e5",
+        "id": "b0c8896c-7be8-4768-ae02-a8bc9b0355e5",
         "name": "gray scale",
         "thumbnail": "gray.png"
       }

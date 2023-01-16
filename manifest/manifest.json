@@ -3,7 +3,7 @@
   "manifestVersion": "devPreview",
   "version": "1.0.0",
   "id": "32cdab16-7c7c-40bc-08ac-c764e91d85a6",
-  "packageName": "com.microsoft.teams.videopp",
+  "packageName": "com.microsoft.teams.videopp-js",
   "developer": {
     "name": "Microsoft",
     "websiteUrl": "https://antonzhutba.github.io/teams-videoapp-sample-js/",

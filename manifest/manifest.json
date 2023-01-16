@@ -40,7 +40,7 @@
       ]
     }
   },
-  "validDomains": ["https://github.com"," https://v-ypalikila.github.io/"],
+  "validDomains": ["https://github.com"," https://antonzhutba.github.io/"],
   "localizationInfo": {
     "defaultLanguageTag": "en-us"
   },
@@ -57,6 +57,6 @@
         "thumbnail": "gray.png"
       }
     ],
-    "videoAppContentUrl": " https://v-ypalikila.github.io/"
+    "videoAppContentUrl": " https://antonzhutba.github.io/"
   }
 }
